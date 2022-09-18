@@ -1,0 +1,81 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2022-09-18T00:09:28.550161+00:00",
+  "repo": "DCtheTall/CHIPS-spec",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOH_4ODs4_DCwK",
+      "title": "Add CHIPS spec draft to repo",
+      "url": "https://github.com/DCtheTall/CHIPS-spec/pull/1",
+      "state": "OPEN",
+      "author": "DCtheTall",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2022-09-15T18:48:31Z",
+      "updatedAt": "2022-09-15T19:02:11Z",
+      "baseRepository": "DCtheTall/CHIPS-spec",
+      "baseRefName": "main",
+      "baseRefOid": "3004107b7866288ba4de13ab64fa7f77c99cd325",
+      "headRepository": "DCtheTall/CHIPS-spec",
+      "headRefName": "draft",
+      "headRefOid": "ce132f0ba69baa500d576c823045e601bc59d9a7",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
