@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2022-09-25T00:11:07.815452+00:00",
+  "timestamp": "2022-09-27T00:15:39.171162+00:00",
   "repo": "DCtheTall/CHIPS-spec",
   "labels": [
     {
@@ -63,7 +63,7 @@
       "labels": [],
       "body": "",
       "createdAt": "2022-09-15T18:48:31Z",
-      "updatedAt": "2022-09-15T19:02:11Z",
+      "updatedAt": "2022-09-26T18:05:21Z",
       "baseRepository": "DCtheTall/CHIPS-spec",
       "baseRefName": "main",
       "baseRefOid": "3004107b7866288ba4de13ab64fa7f77c99cd325",
@@ -75,7 +75,48 @@
       "mergedBy": null,
       "mergeCommit": null,
       "comments": [],
-      "reviews": []
+      "reviews": [
+        {
+          "id": "PRR_kwDOH_4ODs5CwnTy",
+          "commit": {
+            "abbreviatedOid": "ce132f0"
+          },
+          "author": "johannhof",
+          "authorAssociation": "NONE",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2022-09-26T11:26:22Z",
+          "updatedAt": "2022-09-26T11:26:22Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "Hmm isn't that HTTP WG at this point? \ud83e\udd14 ",
+              "createdAt": "2022-09-26T11:26:22Z",
+              "updatedAt": "2022-09-26T11:26:22Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOH_4ODs5CzGEG",
+          "commit": {
+            "abbreviatedOid": "ce132f0"
+          },
+          "author": "johannhof",
+          "authorAssociation": "NONE",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2022-09-26T18:05:20Z",
+          "updatedAt": "2022-09-26T18:05:21Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "Talked about this with @jyasskin and as we're not 100% sure what the correct entry for this field would be at the moment, you may just be able to omit it?\r\n\r\nHowever, the draft name should probably include \"httpbis\" even though we're incubating in Privacy CG to make it clear what the intended standardization venue is, see https://authors.ietf.org/naming-your-internet-draft#group (also because it seems a little complicated to change draft names retroactively).",
+              "createdAt": "2022-09-26T18:05:21Z",
+              "updatedAt": "2022-09-26T18:05:21Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
